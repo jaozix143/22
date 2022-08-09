@@ -1,0 +1,35 @@
+#banner{
+   width: 50%;
+   
+}
+.caixa{
+   position: relative;
+   width: 940px;
+   right: 0 auto;
+}
+header{
+   background: #036635;
+}
+nav li{
+   display: inline;
+   margin: 0 0 0 15px; 
+}
+nav a{
+   text-transform: uppercase;
+   font-weight: bold;
+   font-size: 22px;
+   text-decoration: none;
+
+
+}
+nav{
+   position: absolute;
+   top: 110px;
+   right: 0;
+}
+h2{
+   font-style: italic;
+}
+#banne{
+   width: 50%;
+}
