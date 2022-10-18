@@ -1,0 +1,88 @@
+<html lang="pt-br">
+
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" href="index.css">
+	<main>
+	<title>Minha Pagina</title>
+	<meta charset="UTF-8">
+
+</head>
+
+<body>
+	
+	<center><i><h1><p style="color: darkblue;" >TABELA </h1></i></center></p>
+
+<center>
+			<table>
+
+				<thead>
+
+				<tr>
+					<td>DIA</td>
+					<TD>HORÁRIO</TD>
+					
+				</tr>
+                
+                </thead>   
+
+                <tr>
+
+					<TD>SEGUNDA</TD>
+					<td>8H ~ 16H</td>
+					
+					
+			
+
+				<tr>
+
+					<TD>QUARTA</TD>
+					<td>8H ~ 20H</td>
+					
+				</tr>
+
+				<tr>
+
+					<TD>SEXTA</TD>
+					<td>8H ~ 22H</td>
+					
+				</tr>
+				
+			</table>
+			<main>
+
+   
+                  <div class="materia">
+						<p style="color: darkblue;">QUAL HORÁRIO PREFERE SER ATENDIDO?</p>
+						<select>
+							<option> Manhã </option>
+							<option> Tarde </option>
+							<option> Noite </option>
+						</select>
+					</div>
+
+                  <center><i><h1><p style="color: darkblue;" >FORMULÁRIO </h1></i></center></p>
+					<form class='fundo'>
+
+					<label for="nomesobrenome "> <p style="color: darkblue;">Nome </label><input type="text" id="nomesobrenome"></p>
+					<label for="email"> <p style="color: darkblue;">E-mail </label><input type="email" id="email"></p>					
+					<label for="telefone"> <p style="color: darkblue;">Telefone </label><input type="tel" id="telefone"></p>
+					<h1><p style="color: darkblue;" >Mensagem </h1></p>
+		           <textarea></textarea>
+ 
+                     <h1><p style="color: darkblue;">Gostaria de receber nossas novidades por email?</h1></p>
+					<label style="color: white;"for="radio-manha"><input type="checkbox" name="manha" id="radio-manha"></label>
+
+			<input type="submit" value ="Entregar Formulário"<a href="https://github.com/jaozix143/22/blob/main/Formul%C3%A1rio"></a></p>
+
+
+
+				</form> 
+		
+			
+			
+		</main>
+			
+</body>
+
+</html>
