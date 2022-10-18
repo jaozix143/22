@@ -1,0 +1,85 @@
+main {
+   width: 390px;
+   margin:auto;
+   border-radius: 10px;
+   border: 2px solid;
+   border-color:     black;   
+   background-image: brown;
+   box-shadow: 9px 5px 20px black;
+}
+
+body{
+   
+    background-image: linear-gradient( to left, dimgray, gray, darkgray);
+   
+   
+}
+form{
+   margin: 40px ;
+   margin-left: 10px;
+
+}
+
+
+form label {
+   display: block;
+   color:   red;
+
+
+
+}
+#mensagem{
+   border-radius: 5px 25px 5px 25px;
+   border: 0 none;
+
+}
+
+form input{
+   display: block;
+   margin: 5 0 20px;
+   padding: 8px 10px;
+   width: 107%;
+   border-radius: 5px 20px 5px 20px;
+   box-shadow:none;
+   border: 0 none;
+   color:   darkblue;
+
+
+
+}
+#imagem{
+   width: 40%;
+   display: inline-block;         
+   margin-left: auto;   
+    margin-right: auto;
+}
+
+i{
+   color: deepskyblue;  
+}
+.p{
+   color: orchid;
+}
+.periodo{
+   display: inline-block;
+      color:red;
+
+   
+}
+.materia{
+   display: inline-block; 
+}
+table{
+   margin: 20px 0 40px;
+   font-family: italic;
+}
+thead{
+   background: #555555;
+   color: white;
+   font-weight: bold;
+}
+td, tr{
+   border: 1px solid #000000;
+   padding: 8px 15px;
+}
+
