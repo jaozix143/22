@@ -69,3 +69,18 @@ thead{
 td, tr{
 	border: 1px solid#000000;
 	padding: 8px, 15px;
+}
+li{
+	font-size: 30px;
+	
+}
+a{
+	color: brown;
+}
+h3{
+	color: white;
+}
+h1{
+	text-align: center;
+	color: blue;
+}
